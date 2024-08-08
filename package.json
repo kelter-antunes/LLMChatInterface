@@ -1,0 +1,19 @@
+{
+  "name": "llmchatinterface",
+  "version": "1.0.0",
+  "description": "simple js library to build an llm chat interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelter-antunes/LLMChatInterface.git"
+  },
+  "author": "Miguel 'Kelter' Antunes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelter-antunes/LLMChatInterface/issues"
+  },
+  "homepage": "https://github.com/kelter-antunes/LLMChatInterface#readme"
+}
